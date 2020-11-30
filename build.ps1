@@ -1,0 +1,1 @@
+docker build -t mssql-tools-dacfx:local .
